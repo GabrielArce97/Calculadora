@@ -1,0 +1,8 @@
+Model\Suma.class
+Model\Division.class
+Model\Resta.class
+Model\Multiplicacion.class
+Model\Operacion.class
+org\workspace7\msa\calculator\SimpleCalculatorController.class
+org\workspace7\msa\calculator\SimpleCalculatorApplication.class
+org\workspace7\msa\calculator\SwaggerConfiguration.class
